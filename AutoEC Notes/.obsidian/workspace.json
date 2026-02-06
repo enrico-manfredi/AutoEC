@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "1409f99bad41be02",
+    "type": "split",
+    "children": [
+      {
+        "id": "27ef369852085b30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d9144ca08127920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syringe Pump.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d7171cda3e9481c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Loop.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0719571e0f15177e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c0bb2d9ec499832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb6c532446689eb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f88a3d80c47726f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "807436a67e4aa843",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f26e61e2928c8cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ead000c9b99fbd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f5b2ae6e19a7fff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Syringe Pump.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89377419e8fc3dec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Syringe Pump.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea675d659e3a8ae5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "133f52f79ddd2f2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Syringe Pump.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "4d9144ca08127920",
+  "lastOpenFiles": [
+    "sy-01b-ascii-code-instruction-manuall-v1-1.pdf",
+    "Syringe Pump.md",
+    "Potentiostat.md",
+    "Architecture.md",
+    "Excalidraw/Architecture Sketch.md",
+    "Operating Loop.md",
+    "Pasted image 20240330184920.png",
+    "Pasted image 20240330184759.png",
+    "Pasted image 20240330183435.png",
+    "Excalidraw",
+    "Pasted image 20240330175514.png",
+    "Pasted image 20240330174535.png",
+    "Pasted image 20240330162039.png",
+    "Pasted image 20240330161352.png",
+    "Power Supplies.md"
+  ]
+}
